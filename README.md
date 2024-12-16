@@ -34,7 +34,8 @@ Developed functions to plot the average temperature trend for selected countries
 ## Example Visualizations
 
 ### Global Average Temperature Over Time  
-This plot illustrates the trend in global average temperature across years, highlighting steady increases and potential anomalies.  
+This plot illustrates the trend in global average temperature across years, highlighting steady increases and potential anomalies.
+(Capture.PNG)
 
 ### Temperature Trend in Brazil  
 This plot focuses on the temperature trend specifically for **Brazil**, showing gradual increases in the average temperature with fluctuations.  
