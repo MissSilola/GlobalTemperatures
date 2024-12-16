@@ -35,19 +35,23 @@ Developed functions to plot the average temperature trend for selected countries
 
 ### Global Average Temperature Over Time  
 This plot illustrates the trend in global average temperature across years, highlighting steady increases and potential anomalies.
-![CO₂ Emissions Predictions](Capture.PNG)
+
+![Temp.Overtime](Capture.PNG)
 
 ### Temperature Trend in Brazil  
 This plot focuses on the temperature trend specifically for **Brazil**, showing gradual increases in the average temperature with fluctuations.
-![CO₂ Emissions Predictions](Capture1.PNG)
+
+![Temp.in Brazil](Capture1.PNG)
 
 ### Global Temperature Anomalies  
 This visualization highlights anomalies in global temperature trends. Red points indicate significant deviations from the expected temperature averages.
-![CO₂ Emissions Predictions](Capture3.PNG)
+
+![Global Temperature Anomalies](Capture3.PNG)
 
 ### Global Temperature Predictions (2025-2050)  
 The graph below combines historical trends with predictions for future global temperatures, forecasting potential continued increases.
-![CO₂ Emissions Predictions](Capture4.PNG)
+
+![Global Temperature Predictions](Capture4.PNG)
 
 ---
 
